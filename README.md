@@ -1,5 +1,4 @@
 # URL shortner in NodeJS
-# URL Shortener Service
 
 A simple URL shortener service built using **Node.js** and **Express.js**. This project allows users to generate short URLs for long links and track the number of clicks on each shortened URL.
 
